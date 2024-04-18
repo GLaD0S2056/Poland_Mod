@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "poland_mod:block/bursztyn_ore"
+  }
+}

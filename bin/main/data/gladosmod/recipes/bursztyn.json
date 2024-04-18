@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+  "#": {
+    "item": "poland_mod:bursztyn"
+  }
+},
+  "result": {
+    "item": "poland_mod:bursztyn_block"
+  }
+  }
