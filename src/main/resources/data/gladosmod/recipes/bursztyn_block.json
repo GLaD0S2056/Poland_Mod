@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [{
+    "item": "poland_mod:bursztyn_block"
+  }
+  ],
+  "result": {
+    "item": "poland_mod:bursztyn",
+    "count": 9
+  }
+  }

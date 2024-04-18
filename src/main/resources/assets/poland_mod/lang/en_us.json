@@ -1,0 +1,27 @@
+{
+  "item.poland_mod.pierogi_ser": "Pierogi z serem",
+  "item.poland_mod.pierogi_mieso": "Pierogi z mięsem",
+  "item.poland_mod.pierogi_kapusta": "Pierogi z kapustą",
+  "item.poland_mod.pierogi_jagody": "Pierogi z jagodami",
+  "item.poland_mod.pierogi_ruskie": "Pierogi Ruskie",
+  "item.poland_mod.bigos": "Bigos",
+  "item.poland_mod.bursztyn": "Bursztyn",
+  "item.poland_mod.piwo_z": "Piwo Żubr",
+  "item.poland_mod.zonobijka": "Żonobijka",
+
+  "block.poland_mod.bursztyn_block": "Block of Bursztyn",
+  "block.poland_mod.bursztyn_ore": "Bursztyn Ore",
+
+  "item.poland_mod.bursztyn_helmet": "Bursztyn Helmet",
+  "item.poland_mod.bursztyn_chestplate": "Bursztyn Chestplate",
+  "item.poland_mod.bursztyn_leggings": "Bursztyn Leggings",
+  "item.poland_mod.bursztyn_boots": "Bursztyn Boots",
+
+  "item.poland_mod.husaria_helmet": "Husaria Helmet",
+  "item.poland_mod.husaria_chestplate": "Husaria Chestplate",
+  "item.poland_mod.husaria_leggings": "Husaria Leggings",
+  "item.poland_mod.husaria_boots": "Husaria Boots",
+
+
+  "itemGroup.polishmodtab": "Polish Mod"
+}
